@@ -14,9 +14,9 @@
 
 ## Features:  
 
-**Login**
-**Signup**
-**Add Blog**
-**Update Blog**
-**Delete Blog**
+**Login**  
+**Signup**  
+**Add Blog**  
+**Update Blog**  
+**Delete Blog**  
 
